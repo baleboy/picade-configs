@@ -1,0 +1,939 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./1942.zip</path>
+		<name>1942</name>
+		<desc>"1942" is a vertically-scrolling shoot-em-up set in the Pacific theatre during World War II, in which the goal is to reach Tokyo and destroy the entire Japanese air fleet. 
+
+The player pilots a plane dubbed the "Super Ace" (its appearance is that of a Lockheed P-38 Lightning) and has to shoot down waves of enemy planes while avoiding incoming enemy fire. The 'Super Ace' can perform a limited number of rolls or 'loop-the-loops' to evade enemy planes and shots. 
+
+During the game, waves of red enemy planes periodically appear. If the player manages to destroy a red wave, a power-up, in the form of a 'POW' symbol, will be dropped and can be picked up. The power-up will award either increased fire-power (doubling the player's guns from two to four), a smart bomb that destroys all on-screen enemy planes the instant it's collected, two wingmen planes that flank the Super Ace and increase fire power, or simply extra points.
+
+At the end of each stage the 'Super Ace' lands on an aircraft carrier and bonus points are awarded based on player performance. "1942" differs from other games in that its levels are numbered in reverse order, so the game begins at stage 32 and ends at stage 1.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1942-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./1943.zip</path>
+		<name>1943: The Battle of Midway</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/1943-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive. The Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/altbeast-image.png</image>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./baddudes.zip</path>
+		<name>Bad Dudes vs. Dragonninja</name>
+		<desc>The game starts in New York City, where President Ronnie has been kidnapped by the nefarious DragonNinja. The game's intro begins with the following introduction: "Rampant ninja related crimes these days... Whitehouse is not the exception...". As soon as that occurs, a Secret Service agent asks two street-smart brawlers, named Blade and Striker: "President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?". 
+
+After hearing that, the Bad Dudes pursue the DragonNinja through the city streets, highway, sewers, transport train, forest, cave and into the secret ninja base in order to save President Ronnie.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/baddudes-image.png</image>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./bombjack.zip</path>
+		<name>Bomb Jack</name>
+		<desc>Bomb Jack is a fast-moving platform game in which the aim is to collect all of the bombs on each level before progressing to the next. A variety of constantly spawning mechanical enemies patrol the platforms and airspace so the longer a player takes to collect all of the bombs, the more difficult progress becomes. 
+
+Extra point bonuses are awarded for collecting bombs with their fuses lit. Only one bomb at any time has a lit fuse, and collecting twenty or more of these lit bombs on any given level will earn the player points bonus (see TIPS AND TRICKS for details). Jack is pursued around each level by the spawning enemies and when he gets killed, he drops down to the nearest platform, always landing on his head. 
+
+A 'Powerball' appears at semi-regular intervals and moves diagonally around the screen. If the player manages to grab this, all of the level's monsters are frozen for several seconds and can then be killed by having Jack fly into them (similar to the 'Powerpill' feature in "Pac-Man"). Collecting the Bonus 'B' symbols will increase the amount of points awarded for collecting bombs with their fuses lit. Picking up an 'Extra' symbol awards the player with an additional life, while catching the 'Special' symbol will give the player an extra credit. 
+
+Each of Bomb Jack's levels feature one of five different background pictures, some of which represent famous historical landmarks. They are: the Sphinx in Egypt, the Acropolis in Greece, Castle Neuschwanstein in Bavaria, skyscrapers and a cityscape by night. While the backgrounds themselves are repeated as the game progresses, the platform layouts for each level are completely different. At least until level 18, after which the levels are repeated. 
+
+The basic play mechanic of collecting objects to clear a level, as well as the powerball feature, is hugely reminiscent of Namco's seminal "Pac-Man".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/bombjack-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Tehkan Ltd.</developer>
+		<publisher>Tehkan Ltd.</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./btime.zip</path>
+		<name>Burger Time</name>
+		<desc>A platform game in which one or two players take on the role of burger chef 'Peter Pepper'. The chef must create a set number of burgers per level by collecting the separate ingredients needed to make each one (two pieces of bun, the burger itself and/or a garnish, such as lettuce or cheese). 
+
+Each screen is made up of platforms joined by connecting ladders. At the bottom of the screen are a number of empty plates while the burger ingredients lay across the platforms directly above the plates. The chef must walk across the entire width of the ingredients to make them drop to the platform below. A burger is only completed once all of its ingredients have been dropped onto the corresponding plate at the bottom of the screen. 
+
+The chef's efforts are hampered by the rogue ingredients that are constantly chasing him. They are called 'Mr. Hot Dog', 'Mr. Egg' and 'Mr. Pickle'. Any contact with them results in the loss of a life. The chef can temporarily freeze the enemies by throwing pepper at them. He only carries a limited amount of pepper but this can be replenished by collecting the bonus food items that randomly appear (ice cream cones, coffee, and fries). In addition to the pepper, any enemies located on a platform below the chef can be killed by dropping an available burger ingredient on top of them. .</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/btime-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./dino.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/dino-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-3</players>
+	</game>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/captcomm-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19910928T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./centiped.zip</path>
+		<name>Centipede</name>
+		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. 
+
+The play-field is littered with randomly placed mushrooms and the rapidly descending Centipede changes direction when it runs into a mushroom. When a segment of the Centipede is shot, the segment is destroyed and a mushroom appears in its place, the Centipede then breaks into two smaller centipedes, each with its own head, and continues its descent. 
+
+Players can move the Bug Blaster vertically as well as horizontally, although only for the lower fifth of the play-field. Mushrooms can also be shot for points and to clear blocked areas. Once a Centipede reaches the bottom of the screen, it starts snaking back up, but remains within the lower section of the play-field near the player's Bug Blaster.
+
+Additionally, any Centipede that reaches the very bottom of the screen without being shot releases its tail section which then becomes a new head. Other new heads also enter the screen from the bottom corners of the play-field as time progresses.
+
+Randomly moving Spiders also appear in the first wave. Spiders can destroy any mushrooms they move over, eliminating many mushroom targets for a player. If the Bug Blaster and a Spider collide, both are destroyed. the Spider either moves at a 45-degree angle or vertically up and down, never simply left or right like the centipede does.
+
+A bombardment of Fleas appears from the second wave onward. As a Flea descends, it leaves a trail of new mushrooms behind it. Fleas appear when a certain number of mushrooms remains at the bottom of the screen. This number increases as the game progresses, meaning Fleas appear more often later on in the game. The Bug Blaster must hit a Flea twice to destroy it; the first shot simply speeds up its descent.
+
+When a Centipede with fewer than eleven segments appears, a Scorpion enters from either side, moving at a relatively slow speed. As the player earns more points, the Scorpion's speed increases. As the Scorpion travels across the screen, it 'poisons' the mushrooms that it moves over and changes their colours. These mushrooms cause any Centipedes that would collide with them to head straight towards the bottom of the screen, rather than continue snaking left and right. The Bug Blaster can stop a poisoned Centipede by shooting its head.
+
+If a player earns at least 60,000 points, two things happen to increase the challenge: the Fleas descend at a faster speed and the Spiders restrict their movement to a smaller area at the bottom of the screen.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/centiped-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./commando.zip</path>
+		<name>Commando</name>
+		<desc>Commando is a vertically scrolling shoot'em up in which the player takes on the role of a highly trained commando soldier called "Super Joe", who starts the game by being dropped off in a jungle by a helicopter. 
+
+Joe's mission is to rescue captives and destroy the enemy bases and strongholds that appear at the end of each level, killing as many enemy soldiers as possible in the process. 
+
+The end-of-level strongholds see waves of enemy soldiers ordered to attack by a cowardly officer, who immediately runs away. Shooting the fleeing officer earns the player bonus points. Along the way, players can attempt to free prisoners-of-war by shooting their enemy guard escorts as they are transported across the screen.
+
+Super Joe carries only two weapons: a limited-range machine gun with unlimited shots, and a limited supply of hand grenades. Extra grenades can be picked up as the player progresses through the levels.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/commando-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Data East</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./defender.zip</path>
+		<name>Defender</name>
+		<desc>Defender is a legendary sideways-scrolling shoot-em-up - the very first of its genre - in which the aim is to pilot a laser-firing spaceship and protect humanoids stranded on the planet's surface from swarms of alien abductors.
+
+A long-range scanner at the top of the screen shows the positions of both the humanoids and the attacking aliens. The ideal strategy is to shoot down the alien ships before they reach the humanoids. If a humanoid is captured, the alien abductor can still be destroyed, but the player must then catch the falling humanoid and return it to the safety of the planet's surface before it falls to its death.
+
+If an alien is allowed to carry its victim to the very top of the screen, the humanoid will mutate, becoming a permanent part of the alien that captured it. This new and deadly mutation will then immediately join in the alien attack.
+
+The challenge becomes more intense as action progresses. Fighter ships and their mines will soon join the abductors. There are also mother ships that must be destroyed; these are particularly difficult as a direct hit smashes the mother ship into a swarming mass of mini-ships that must also be wiped out. Throughout the entire mission, the player must act quickly or face possible destruction by the cosmic baiter, a fast and dangerous enemy.
+
+Players have two escape options to use as a last resort. The first is the 'smart bomb', which destroys all on-screen enemies. The second option is 'hyperspace', which randomly teleports the player's ship to another part of the level. This is highly risky as it may place the player's ship in a position more dangerous than the one it left.
+
+If all humanoids are successfully abducted, the planet will explode in a blinding flash and the waves remaining until the next planet is reached take place in outer space, and consist solely of destroying enemy waves.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/defender-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./digdug.zip</path>
+		<name>Dig Dug</name>
+		<desc>Dig Dug is single screen action game in which the player must dig horizontal and vertical tunnels to reach and eliminate the underground-dwelling monsters living there. This is achieved by either inflating them with an air pump until they explode, or by dropping rocks onto them. </desc>
+		<image>~/.emulationstation/downloaded_images/arcade/digdug-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./dkong.zip</path>
+		<name>Donkey Kong</name>
+		<desc>EVERYONE'S GOING APE OVER DONKEY KONG!
+
+"HELP! HELP!" cries the beautiful maiden as she is dragged up a labyrinth of structural beams by the ominous Donkey Kong. "SNORT. SNORT" Foreboding music warns of the eventual doom that awaits the poor girl, lest she somehow be miraculously rescued. "But, wait! Fear not, fair maiden. Little Mario, the carpenter, is in hot pursuit of you this very moment"
+
+Throwing fate to the wind, risking life and limb, or worse, little Mario tries desperately to climb the mighty fortress of steel, to save the lovely lady from the evil Mr. Kong. Little Mario must dodge all manner of obstacles - fireballs, plummeting beams and a barrage of exploding barrels fired at him by Donkey Kong.
+
+Amidst me beautiful girl's constant pleas for help, your challenge is to maneuver little Mario up the steel structure, while helping him to avoid the rapid-fire succession of hazards that come his way.
+
+As little Mario gallantly battles his way up the barriers, he is taunted and teased by Donkey Kong, who brazenly struts back and forth, beating his chest in joyful exuberance at the prospect of having the beautiful girl all to himself. It is your job to get little Mario to the top. For it is there, and only there, that he can send the mighty Donkey Kong to hit mortal doom. Leaving little Mario and the beautiful girl to live happily ever after. "SIGH. SIGH.”
+
+So, if you want the most exciting, most fun-filled, most talked about family video game on the market, don't monkey around with anything but the original Donkey Kong.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/dkong-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+	</game>
+	<game>
+		<path>./dkongjr.zip</path>
+		<name>Donkey Kong Junior</name>
+		<desc>Fate has turned the tables on the inimitable Donkey Kong.
+
+After Mario saved the Beautiful Girl from the lustful clutches of Donkey Kong, he led the brokenhearted ape into captivity, locking him behind steel bars, never again to strut his stuff before the fair maidens of the world.
+
+As the frustration of confinement enrages Donkey Kong, Mario complacently stands guard over the cell, holding the sought after key to freedom.
+
+But wait! Unbeknownst to Little Mario, Donkey Kong has produced an offspring - Donkey Kong Junior! A death-defying little monkey, shrewd and cunning, who resists all enemies to rescue Papa Donkey Kong.
+
+As Mario's brigade of snapping jaws, ape-eating birds and energy pods launch their offensive, Junior bombards them with a fusillade of Fruit Bombs that aim to annihilate his every foe.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/dkongjr-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ffight.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/ffight-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./frogger.zip</path>
+		<name>Frogger</name>
+		<desc>Frogger is a one or two-player game in which players must overcome a number of hazards to safely guide the green amphibian from the bottom of the screen to one of five home bases situated at the top of the screen.
+
+A round is completed once five frogs have been guided safely home, after which the next round begins with an increased level of difficulty. This includes faster-moving vehicles on the road section and new, deadly hazards on the river section, including crocodiles, otters and snakes.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/frogger-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./galaga.zip</path>
+		<name>Galaga</name>
+		<desc>Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called "Galagans". The Fighter can only move left and right along the bottom of the screen. 
+
+Galagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed. </desc>
+		<image>~/.emulationstation/downloaded_images/arcade/galaga-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./galaxian.zip</path>
+		<name>Galaxian</name>
+		<desc>Galaxian is a legendary single-screen shoot-em-up that took everything that made Taito's ground-breaking "Space Invaders" so good, and improved upon it on every level. Each screen starts with a wave of multi-colored aliens moving left and right at the top of the screen; the aliens quickly break ranks and start dive-bombing the Galaxip (player's ship) - either in single units or in groups of 3 - dropping multiple missiles as they descend. All of the aliens need to be destroyed before the player can progress to the next wave. </desc>
+		<image>~/.emulationstation/downloaded_images/arcade/galaxian-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./gauntlet.zip</path>
+		<name>Gauntlet</name>
+		<desc>Gauntlet is a maze-based shoot-em-up for up to four players. Heavily influenced by classic fantasy conventions, players take on the role of either Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard, or Questor the Elf and must play cooperatively as they explore and fight their way through the enemy-packed mazes. Competitive play is encouraged as players must fight for the limited amount of food, treasure, magic potions and power-up items that litter the dungeons. 
+
+Each of Gauntlet's four characters have different strengths and weaknesses: Thyra has the strongest armour, Thor is best at hand-to-hand combat, Questor has the fastest speed and Merlin has the most powerful magic attacks. The object of the game is simply to survive as long as possible while exploring Gauntlet's mazes in search of treasure, food, magic potions and, ultimately, the exit that leads to the next dungeon. 
+
+The potions - shown as blue bottles - that litter the levels offer either improved character abilities (such as 'speed' or 'extra shot power') or can be used as a 'smart bomb', destroying some or all of the on-screen monsters. Potions are also the only way to kill the game's 'Death' character that appears in many of the stages. Magic potions can be kept and used at the player's discretion by pressing 'Magic' button, although each potion can only be used once. 
+
+The first seven mazes are always the same, but from level 8 onwards, players will find themselves on any one of over a hundred different mazes. If players survive for long enough, the mazes will be repeated in a different order. How long a player lasts depends upon the player's 'health' level. Health continually depletes as time progresses and further health is lost by contact with various monsters or their projectiles. Health can be replenished by consuming the food found in the mazes or by inserting more credits. The many treasure chests that litter the levels can be plundered for points, and collecting treasure increases a player's score multiplier when two or more players are playing the game.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/gauntlet-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./gng.zip</path>
+		<name>Ghosts'n Goblins</name>
+		<desc>Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan, king of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.
+
+The player can only be hit twice before losing a life. If the player loses a life, they are returned to the start of the level, or the halfway point if they have managed to get that far. Furthermore, each life can only last a certain length of time. After defeating the final boss, the player must then replay the entire game on a higher difficulty level to reach the genuine final battle.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/gng-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./goldnaxe.zip</path>
+		<name>Golden Axe</name>
+		<desc>Golden Axe is a sideways scrolling beat-em-up set in a traditional fantasy world, in which up to three warriors take up arms to rescue the kidnapped King and his Queen from the evil Death Adder.
+
+The game's three different playable characters are an Amazonian warrior named Tyris Flare, a Barbarian hero named Ax Battler, and a Viking dwarf named Gilius Thunderhead. Each character has a special attack move that is activated by pressing both JUMP and ATTACK at the same time. Also, double-tapping the joystick right or left will make the character charge and smash into opponents.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/goldnaxe-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./gberet.zip</path>
+		<name>Rush'n Attack</name>
+		<desc>Depending on which title you use, and how you interpret it, this game is about a guy who a)rushes in before attacking b)attacks Russians (this was the mid-80s, when the US helped bin Laden do the same), or c)wears a rather goofy hat. One way or another, this arcade conversion arms you with a knife and sends you on a kamikaze mission against hordes of enemy fighters.
+
+There are four distinct sections of gameplay, taking in a Missile Base, a Harbour, a Bridge, and an enemy Prison Camp. Extra weapons with limited ammunition can be collected along the way, which will make the task a lot easier. The level is divided into 3 horizontal levels, which can be moved between either by jumping or using ladders, and this gives a chance to avoid the more threatening mobs of enemy fighters</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/gberet-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./gyruss.zip</path>
+		<name>Gyruss</name>
+		<desc>Gyruss is a single-player shoot-em-up in which the purpose is to fly through the solar system, destroying waves of alien attackers, before finally reaching Earth. Planets that must be passed before Earth is reached are Neptune, Uranus, Saturn, Jupiter, and Mars. 
+
+It only takes two warps to reach Neptune, but all of the others, including Earth, take three warps to get to. Each time the player reaches a planet, they will be faced with a 'Chance Stage', a bonus stage in which players try to destroy as many aliens as possible to accrue points. After reaching Earth, there is a Chance Stage, followed by a very fast '3 Warps to Neptune' stage. After this, the levels and the background music start over. 
+
+Gyruss' superb gameplay, in which the player ship rotates around the edges of the screen and fires 'inwards', is heavily influenced by Atari's 1981 classic, "Tempest". While the design of the alien ships themselves is similar to those of Namco's also-legendary "Galaga" series.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/gyruss-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ikari.zip</path>
+		<name>Ikari Warriors</name>
+		<desc>Ikari Warriors is a vertically-scrolling run 'n' gun shoot-em-up in which one or two players take on the roles of two bandana-wearing musclebound soldiers as they engage in jungle warfare, fighting over land and water to reach the village of Ikari.
+
+Players can rotate their guns through 360 degrees, allowing them to fire and move in all directions. Standing between the soldiers and their destination is a multitude of enemy soldiers, tanks, helicopters and reinforced bunkers. 
+
+The enemy soldiers utilise a number of different weapons, including machine-guns, grenades, super grenades and flame-throwers. The game's standard enemy troops wear blue uniforms, but there are also enemies in red uniforms that when killed, often drop power-ups that either give players more ammunition, increase the power of bullets and grenades or even kill all enemies on the screen. The players' munitions are limited in number so additional ammo and grenades must to be picked up along the way. 
+
+While most of the action takes place on foot, unoccupied enemy tanks can be found that can be entered and driven. Tanks offer increased firepower as well as resistance to enemy shots. Too many enemy hits, however, will eventually see the tank explode, this is proceeded by a warning flash to allow the player to exit the tank before the explosion. Should the player be caught inside when the tank explodes, a life is lost. Tanks also have a limited amount of fuel but extra fuel can be found to replenish it.
+
+Another obstacle that players need to be wary of, whether on foot or in a tank, are hidden land-mines. These cannot initially be seen put will appear and flash as the player approaches. These cannot be destroyed and contact with them results in an instant death.
+
+Unlike most arcade games, Ikari Warriors is not separated into different stages; the game takes place over one huge, scrolling stage. Ikari Warriors does have a continue feature, but it's only possible to continue from where the last game ended by first holding down the FIRE button, then pressing the start button. Simply pressing the start button restarts the game from the very beginning.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/ikari-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kchamp.zip</path>
+		<name>Karate Champ</name>
+		<desc>Karate Champ &amp;copy; 1984 Data East USA.
+
+A seminal 1-on-1 fighting game set over the course of a karate tournament, Karate Champ was the first game of its type and would influence every game of the fighting genre that followed. Karate Champ&amp;#039;s control system utilised a somewhat awkward dual joystick control system, with simultaneous joystick manipulation required to execute even the simplest of kicks.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/kchamp-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./knights.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/knights-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-3</players>
+	</game>
+	<game>
+		<path>./kungfum.zip</path>
+		<name>Kung-fu Master</name>
+		<desc>Kung-Fu Master, known in Japan as Spartan X (ã‚¹ãƒ‘ãƒ«ã‚¿ãƒ³X?), is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited "Paragon Films Ltd., Towa Promotion", who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/kungfum-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Fight / 2D</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mario.zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
+
+Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
+
+As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/mario-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mercs.zip</path>
+		<name>Mercs</name>
+		<desc>The US faces a grave crisis! The former president has been kidnapped by a group of revolutionaries while on a trip on Central Africa meant to promote world peace. Take control of three highly skilled anti-terrorist soldiers and venture through enemy lines to save the former president &amp; annihilate the rebel army in the process. Features solid graphics &amp; sound, plenty of weapons &amp; vehicles to use and hulking bosses to defeat.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/mercs-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>1-3</players>
+	</game>
+	<game>
+		<path>./mslug.zip</path>
+		<name>Metal Slug - Super Vehicle-001</name>
+		<desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.
+
+The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss. 
+
+The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.
+</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/mslug-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19960524T000000</releasedate>
+		<developer>Nazca Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mk.zip</path>
+		<name>Mortal Kombat</name>
+		<desc>Mortal Kombat, first in the Mortal Kombat series, is a 1-on-1 fighting game featuring a cast of seven different characters. Mortal Kombat took ideas from Capcom's seminal Street Fighter II, such as the game's special moves and projectiles. It also introduced a cast of photo-realistic digitized fighters for players to fight either as or against. 
+
+Mortal Kombat characters list:
+JOHNNY CAGE
+KANO
+RAIDEN
+LIU KANG
+SCORPION
+SUB-ZERO
+SONYA BLADE
+
+Battles are fought over the best of three rounds. At the end of a battle, a voice instructs the winner to 'Finish Him/Her!' and players have only a couple of seconds to try and execute their character's 'fatality', which sees the winner killing the loser in a spectacular and grisly fashion.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/mk-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19921008T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mrdo.zip</path>
+		<name>Mr. Do!</name>
+		<desc>Mr. Do! is a colourful and addictive maze game in which the player takes on the role of the eponymous Mr. Do, a circus clown, who must clear each level of either cherries or monsters. The game's single screen levels are made up of tunnels surrounded by a colourful, soil-like substance. This soil can be dug through to create new tunnels, allowing Mr. Do to escape his enemies and to reach the many cherries that litter the levels. A number of apples are also scattered around each level, and Mr. Do can push them along tunnels (to block and/or kill monsters) or can tunnel beneath them to drop them onto the heads of any pursuing enemies. Mr. Do himself can also be killed by a falling apple.
+
+Mr. Do is armed with a 'Powerball' that can be fired down a tunnel, it will then bounce around the tunnels until it either returns to Mr. Do, or comes into contact with, and kills, one of the level's monsters. The Powerball regenerates immediately the first time you use it, but takes longer each time it is used to return to your hands. As each level progresses, the monsters themselves start to dig tunnels of their own in their pursuit of Mr. Do. Monsters can also push the apples.
+
+Each screen has a doorway through which the monsters enter the level. Once all of the monsters have appeared, the doorway will turn into a 'prize', (ice cream, biscuits, etc.). If Mr. Do collects the prize, the 'Alphamonster' and his three 'Muncher' henchmen will appear. The Alphamonster may be in the EXTRA box at the top of the screen or be moving around the screen. The Alphamonster and the Munchers cannot be easily crushed under apples because they tend to eat them. They can be killed individually with the Powerball or by killing the Alphamonster itself, at which point any remaining Munchers will turn into apples.
+
+After every three levels, there is a brief intermission in which a tune is played and a large, animated Mr. Do appears, together with some of the game's monsters. The time to complete each level and the preferred method (monsters, cherries, Alphamonsters, or Diamond) is shown. The paths in the first level resemble a 'D', after this each level's tunnels resemble a digit, ('2', '3', '4' etc.) up to '0' for level 10.
+
+A level can be completed any one of several different ways: either by collecting all of the on-screen cherries; by killing all of the monsters, by completing the EXTRA box, or by collecting the diamond. The latter appears only very occasionally ('Special' awards an extra credit).</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/mrdo-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./mspacman.zip</path>
+		<name>Ms. Pac-Man</name>
+		<desc>In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. 
+
+Namco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. 
+
+Another change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. 
+
+Ms Pac-Man features four different maze layouts, which alternate every two to four rounds: 
+</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/mspacman-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action / Labyrinth</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./pacland.zip</path>
+		<name>Pac-Land</name>
+		<desc>Pac-Land is a horizontally-scrolling platform game set in the cartoon world of the game's title. A fairy has lost her way and needs Pac-Man to help her get back to her home of Fairyland. Pac-Man, with the fairy safely hidden beneath his hat, must run and jump through the colourful world until he reaches and enters the magical door to Fairyland. Upon being rescued, the fairy gives Pac-Man a pair of magical shoes for his trip back home. These enable him to jump wherever he wants, without the need for a platform to jump from. This effectively means Pac-Man can 'sky-jump' back home if he so wishes.
+
+Directional buttons make Pac-Man walk left and right and it's possible to make him run by tapping the desired directional button twice. Pac-Man is pursued by his ever-present enemies in the form of five ghosts - Pinky, Inky, Blinky, Clyde and Sue. Pac-Man must avoid the ghosts and other deadly objects that populate the levels. As with previous games in the series, a small number of 'Powerpills' appear. Eating a Powerpill makes Pac-Man temporarily invincible and turns the ghosts purple and vulnerable to being eaten. On some stages, Pac-Man must use a springboard to jump over large ponds by leaping from the springboard and rapidly moving left and right while in the air.
+
+The game's stages are called 'trips', with players able to start on any one of the first five. Each trip made up of four rounds (three rounds to reach Fairyland and one round to return home) with a short interval between each one. The objective in all trips is to get the fairy safely back to Fairyland then return home to Pac-Man's family. The majority of the trip involves moving from left to right, avoiding various obstacles such as the enemy ghosts, water spurts and quicksand traps. The journey home, however, scrolls right to left.
+
+Each stage must be completed within a set time limit and if the player runs out of time before finishing a round, Sue (the purple ghost) will speed up considerably and kill Pac-Man. At the end of each round, players are awarded bonus points based on how much of the time limit remains. On each stage, cherries and other items can be collected for extra points. There are a total of 8 different trips in the game, totalling 32 levels. After the 8th trip, the 9th trip is a repeat of the 5th trip, with level 33 effectively being level 17, with an increased difficulty level.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/pacland-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform / Run Jump Scrolling</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./pacman.zip</path>
+		<name>Pac-Man</name>
+		<desc>Export release by Bally/Midway for North America. Game developed by Namco and originally known as Puckman in Japan. For more information about the game itself, please see the original Japanese release entry, "Puckman [Upright model]".</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/pacman-image.png</image>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Coleco Industries, Inc.</developer>
+		<publisher>Coleco Industries, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./paperboy.zip</path>
+		<name>Paperboy</name>
+		<desc>Paperboy &amp;copy; 1984 Atari Games.
+
+Paperboy is a one or two-player game in which the objective is to deliver Newspapers to the Paperboy&amp;#039;s customers from Monday through to Sunday. 
+
+Each game begins with ten customers and ten non-customers. Paperboy&amp;#039;s customers live in the brightly coloured houses, while non-customers live in dark coloured houses. To deliver to a customer, the player must throw a paper either into the customer&amp;#039;s mailbox, or onto their front porch. Failure to deliver a paper to a customer results in the loss of that customer for the next day. Any damage done to a customer&amp;#039;s property also results in the loss of that customer. Losing all ten of Paperboy&amp;#039;s customers will get him fired and the game is over. However, on any day in which all customers have their papers successfully delivered, one of the non-customers will re-subscribe.
+
+Non-customers&amp;#039; houses and yards are loaded with targets at which to throw your extra papers (windows, lamps, statues, etc.). Hitting these targets earns points for the &amp;quot;Breakage Bonus&amp;quot;, which is displayed at the top center of the screen. The total Breakage Bonus is awarded to the player at the end of each day (or at the end of the game-whichever comes first). 
+
+If Paperboy loses a customer, that customer&amp;#039;s house will be dark coloured the next day. As a non-subscriber, this house now presents more targets at which to throw newspapers for building up the Breakage Bonus. At the start of each day, a map of Paperboy&amp;#039;s route is displayed to indicate subscriber and non-subscriber houses. This helps to remind players of what customers they may have lost on the previous day and the location of remaining customers. 
+
+Paperboy can carry a maximum of ten papers at a time, but can restock his supply by riding over paper bundles placed here and there on his route. A paper supply indicator is displayed underneath the player&amp;#039;s score. 
+
+While making his deliveries, Paperboy must avoid collisions with all stationary objects and other characters moving about the neighborhood. To avoid collisions, Paperboy can ride his bike anywhere - on the sidewalk, in the street, or into front yards. A collision with anything results in the loss of a life. 
+
+In addition to the obstacles, non-subscribers are hostile towards Paperboy and will attack him and try to knock him down. If Paperboy damages a subscriber&amp;#039;s property, that character may also attack. So the more customers that are lost, the more hostile the neighborhood becomes toward Paperboy. 
+
+At the end of each delivery day, players have a chance to sharpen their skills by guiding Paperboy through the Paperboy Training Grounds. This obstacle course is filled with various targets at which to throw newspaper, as well as ramp jumps to be negotiated. This is a bonus round and no lives are lost for failing to reach the finish line.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/paperboy-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./pengo.zip</path>
+		<name>Pengo</name>
+		<desc>Pengo is an action game set in an overhead maze constructed of ice blocks. The player controls Pengo, a red penguin that lives in the Antarctic and fights the blob-like Sno-Bees. The objective of the game is for Pengo to survive a series of rounds by eliminating all Sno-Bees, while amassing bonuses by bringing together the three diamonds dispersed in the maze.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/pengo-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./qbert.zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/qbert-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>D. Gottlieb &amp; Co.</developer>
+		<publisher>D. Gottlieb &amp; Co.</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rtype.zip</path>
+		<name>R-Type</name>
+		<desc>RType is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.
+
+The game's revolutionary weapons system is its real stroke of genius. The first of numerous innovations that R?Type bought to the genre is the beam weapon: when the fire button is held down, a 'power meter' starts to charge up; once the meter is full, releasing the fire button unleashes a very powerful plasma burst capable of inflicting much greater damage to enemy ships or even destroying numerous enemies simultaneously. The trade-off is that charging the weapon takes up valuable seconds, giving the Bydo ships time to attack.
+
+The most significant addition to R-type's arsenal is the now-legendary 'Force Pod'. This takes the form of an invincible, detachable laser-firing pod that can be attached to either the front or rear of the player's ship, or can be detached completely, after which the pod sits some distance either ahead or behind the player's ship, tracking its movements and providing additional fire power. When attached to the R9 ship, the pod acts as a shield. This forms a crucial part of R?Type's gameplay and has to be fully utilised to navigate certain sections of the game, such as the huge mothership that comprises the game's 3rd stage.
+
+R?Type's levels are designed to make full use of its unique weapons system, making for very linear and demanding gameplay in which losing or picking up the wrong weapon at the wrong time often leads to an instant death. Its intelligent, precise and demanding level design, gave the world its first truly 'strategic' shoot-em-up.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/rtype-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rbisland.zip</path>
+		<name>Rainbow Islands</name>
+		<desc>Rainbow Islands - The Story of Bubble Bobble 2  is a sequel to the legendary "Bubble Bobble" - released a year earlier - one or two players (who, unlike 'Bubble Bobble', no longer play simultaneously) take on the role of Bub and Bob, who have now been returned to their original human form after their success in Bubble Bobble. The returning heroes have been asked to rescue the Rainbow Islands from the clutches of the various enemies who have overrun the islands in their absence.
+
+Bob and Bob are each armed with the ability to create solid rainbows. This ingenious game-play device acts as both a weapon (to either kill an enemy instantly, or trap it then collapse the rainbow onto it, the latter essential for collecting bonus gems - as detailed in 'Tips and Tricks') and as a temporary platform that allows the players to reach previously inaccessible parts of the level, as they race to reach the top of the island before the game's tight time limit expires.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/rbisland-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./rampage.zip</path>
+		<name>Rampage</name>
+		<desc>George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.
+
+Smashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/rampage-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Barcrest / Red Gaming</publisher>
+		<genre>Adventure</genre>
+		<players>1-3</players>
+	</game>
+	<game>
+		<path>./shinobi.zip</path>
+		<name>Shinobi</name>
+		<desc>Shinobi is a scrolling platform beat-em-up in which the player takes on the role of Joe Musashi, a Shinobi Ninja, who must fight his way through 5 tough missions - each made up of between 3 to 5 stages - in his quest to rescue the kidnapped Ninja children of the Iga clan; now hostages of an evil Ninja syndicate called "Zeed". To complete a mission, the player must rescue all of the kidnapped children on each level, with the number of hostages remaining displayed on a meter in the bottom left corner of the screen.
+
+Shinobi was a huge success for Sega, and deservedly so. Its perfectly realized blend of platform and fighting action and is as fine an exponent of the 'easy to get into, difficult to master' gameplay ethic as video games have seen.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/shinobi-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./invaders.zip</path>
+		<name>Space Invaders / Space Invaders M</name>
+		<desc>The most influential video game of all time. A single player moves an armed 'base' to the left or right along the bottom of the screen and fires at the endless waves of aliens that tirelessly parade across the screen towards earth.
+There are 4 buildings (shields) at the bottom of the screen behind which the player can hide, but these will eventually be destroyed by enemy missiles or by direct contact with the invaders themselves. Player shots will also destroy shields.
+The descent of the aliens accelerates as they are eliminated, making them more difficult to hit. A flying saucer will fly across the top of the screen at regular intervals and can be fired for extra points.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/invaders-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./sf2.zip</path>
+		<name>Street Fighter II : The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/sf2-image.png</image>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./strider.zip</path>
+		<name>Strider</name>
+		<desc>Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. 
+
+Set in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race. </desc>
+		<image>~/.emulationstation/downloaded_images/arcade/strider-image.png</image>
+		<rating>0.85</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+	</game>
+	<game>
+		<path>./s1945ii.zip</path>
+		<name>Strikers 1945 II</name>
+		<desc>Continuing where the last game ended, the forces of CANY had been demolished by the previous Strikers' line-up. However, a small group known as the FGR stole the sources and technology responsible for the last events and planned to continue CANYs work by initiating world-warfare with massive mech technology. Once again, the Strikers are called into action.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/s1945ii-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ssriders.zip</path>
+		<name>Sunset Riders</name>
+		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.
+
+The action takes place both on foot and on horseback, with play sometimes broken up with a wild west pursuit; such as having to run along the backs of a herd of fleeing Buffalo. Each level ends with players entering a one-on-one battle against one of the wanted men they have been pursuing. 
+
+Power-ups and bonus items can be obtained by entering saloons or defeating certain sack-carrying bandits. The power-ups comes in the form of either a golden sheriff badge (that gives the player's weapon auto-fire) or a silver badge that gives the player a second gun (making it possible to shoot in two directions simultaneously). Both power-ups can be equipped at the same time. 
+
+Other weapons that can be used by players include sticks of dynamite carried by female bandits that can be thrown back at the enemy before they explode and a mounted Gatling gun available only in the last stage. 
+
+A bonus mini-game appears at the end of Stages 2 and 5 in which players must shoot at enemies from a first-person perspective before the timer runs out.
+
+Sunset Riders features eight stages of play.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/ssriders-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./superpacm.zip</path>
+		<name>Super Pac-Man</name>
+		<desc>Super Pac-Man is a 1- or 2-player game where you are in control of the legendary Pac-Man. As in the original "Pac-Man" game, the goal is to clear each maze, but this time, instead of dots, the maze consists of prizes which are locked away behind gates. There are two ways to access the prizes. You can eat the keys which open a particular gate, and not always the gate which is closest to that key. Or you can crash through the gate after you eat a Super Pill and become Super Pac-Man. You are not required to eat all of the keys in order to complete the stage. 
+
+Four Power Pills are in maze and allow Pac-Man to turn the tables on the ghosts and eat them for a short time. When the ghosts begin to flash, time is running out and they will switch back, so beware. 
+
+New in this game is the Super Pill. There are two Super Pills in the maze which allow Pac-Man to become Super Pac-Man for a limited period of time. While in Super form, Pac-Man can crash through the maze gates, fly over the ghosts and avoid being killed (or eat them when they're blue), and travel at super speed whenever the player presses and holds the Super Speed button. When the super power is about to run out, Pac-Man flashes white and then returns to his normal form. You can extend the duration of Super time by eating a regular Power Pill. The Super time will then be extended by the duration of the ghosts' blue time. 
+
+Pac-Man loses one life whenever a ghost catches him when the ghost is not blue and Pac-Man is not in Super form. You start with a set number of lives ('Lives' dip switch), and bonus lives can be awarded to you as you reach or pass certain preselected point values ('Extra Lives' dip switch). 
+
+The tunnel is a great way to put some space between you and any ghosts that are on your tail since they can only move half as fast as you when they are in it. In Super Pac-Man, the ghosts are also slowed down by travelling through the passage directly beneath the ghost pen.
+
+Occasionally, a star will appear in the middle of the screen with a picture on the left, and a rotating picture on the right. You may eat the star at any time for bonus points, but if you manage to eat the star when the right picture matches the left one, you will receive a larger bonus. 
+
+As the stages increases, the ghosts speed up their pursuit of Pac-Man and they stay blue for shorter and shorter periods of time after he eats a Power Pill until, in the high stages, they do not turn blue at all. 
+
+Super Pac-Man also features bonus stages in Stage 3, Stage 7, and every fourth stage thereafter, where there are no ghosts, a time limit, and Pac-Man is in Super form throughout the stage. Your goal is to eat all of the prizes in the given time limit. As with gameplay on the regular levels, you don't need to eat all (or any) of the keys. You are awarded the remaining time in the counter as points for successfully eating everything. With each Bonus stage, the walls and gates change color. 
+
+</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/superpacm-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./tempest.zip</path>
+		<name>Tempest</name>
+		<desc>The objective of Tempest is to survive as long as possible and score as many points as possible by clearing the screen of enemies that have landed on the playing field. The player's ship can rapid-fire shots down the tube, destroying any enemies within the same segment, and is also equipped with a Superzapper, which destroys all enemies currently on the playfield once per level. (A second use of the Superzapper in a level destroys one random enemy.)</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/tempest-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./timeplt.zip</path>
+		<name>Time Pilot</name>
+		<desc>Time Pilot is a multi-directionally scrolling shoot-em-up in which the player controls a futuristic jet fighter and takes on the role of pilot trying to rescue fellow pilots who are trapped in different time eras. The game consists of five different stages of play, each of which is set in a different time period.
+
+</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/timeplt-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./tron.zip</path>
+		<name>Tron</name>
+		<desc>Tron is a 1- or 2-player game set inside the 'Tron' computer, and is based on the ground-breaking Disney movie of the same name.
+
+Tron consists of twenty-two stages - or 'phases' - of play. Each phase consists of four separate games called "domains", all of which must be completed before moving on to the next phase. Players can determine the order in which each of the four domains is attempted, but the domain position is random and is only revealed once that domain has been chosen.
+
+The four domains that make up a phase never change throughout the game, although both the difficulty level and number of enemies increases with each subsequent phase. The domains are as follows:
+
+LIGHT CYCLES: The player controls a Light Cycle that leaves a blue light trail in its wake. The aim is to 'box in' the yellow enemy Light Cycles, making them crash into either a cycle trail (theirs or the player's) or a wall. The player must also avoid any collision with either walls or light trails. The joystick controls the direction of the bike and the trigger controls its speed.
+I/O TOWER: Destroy the Grid Bugs that emerge from the grid surrounding the tower. The bugs will multiply and fill the entire screen if not stopped. Players must attempt to clear a path to - and enter - the I/O Tower before the timer runs out. The stick controls the movement of the player's character and the spinner controls the direction of fire.
+TANK MAZE: Destroy all enemy tanks that are patrolling the maze. The player's tank can fire in all directions and can bounce shots off walls, but can be destroyed by a single shot; while enemy tanks can only fire in the direction of travel but need three shots before they are destroyed. "Recognizer" tanks also feature in later phases; these Do NOT shoot but move quickly and will try to ram the player's tank. The joystick controls the movement of the player's tank and the spinner controls the direction of fire.
+MCP CONE: Destroy the blocks in the descending, rotating coloured column to clear a path and move the character up into the light cone above the blocks. A bonus is awarded if all of the blocks are destroyed. The stick controls the movement of the character and the spinner controls the direction of fire.
+
+Bonus lives are awarded periodically throughout the game as specific point scores are reached. Each enemy and item has an assigned point value (see the "SCORING" section for details).</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/tron-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Compilation</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./wbml.zip</path>
+		<name>Wonder Boy In Monster Land</name>
+		<desc>Wonder Boy in Monster Land is a multi-directional scrolling platform hack 'n' slash game with RPG elements, in which the game's hero, Wonder Boy, has seen his home of Wonderland invaded by the evil 'MEKA Dragon' and its army of minions. 
+
+At the start of the game Wonder Boy is unarmed, but the mayor of Wonder Land (as it was known before the invasion) gives him a short sword to help him in his quest. Wonder Boy has a life meter represented as a series of red hearts and whenever he sustains damage, the hearts deplete. When all the hearts are depleted, Wonder Boy dies and the game ends. As well as the life meter, there is also an Hourglass Timer at the top of the screen; whenever this runs out, Wonder Boy loses some life. The Timer can be refilled by collecting hourglasses or by visiting hospitals or taverns.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/wbml-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./xevious.zip</path>
+		<name>Xevious</name>
+		<desc>It's a nightmare, but it's true! Research shows that we are the actual aliens on Earth, and the ruthless Xevions are the original inhabitants.
+
+Now the Xevions want Earth back -- minus humans! Their invasion forces are fierce -- the land is crawling with deadly Domogram Rovers; the sky is black with Toroid Patrol Fleets and Zoshi Death Squads.
+
+Our puny weapons offer no defense. Earth's only hope is our powerful new Solvalou Fighter Plane. Its pilot will have a single mission: Penetrate the enemy ranks and destroy the Xevious Mother Ship.
+
+The mission is dangerous. We can't guarantee success. But at this point, it's do or die!
+
+One small problem. We still need a pilot. Any volunteers?</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/xevious-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./xmen.zip</path>
+		<name>X-Men</name>
+		<desc>X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.
+
+Each X-Man character has an 'Attack', 'Jump' and 'Mutant Power' button. The mutant power attack is a powerful special move unique to each X-Man. While it inflicts a lot of damage on the enemies, the trade-off is that each usage removes 3 bars from the players health meter (a full meter has 10 bars). Each level ends with a face-off against a powerful mutant boss character.
+
+The game has six stages, with the final one set on 'Asteroid M', Magneto's base. The defeated mutant bosses from the previous levels each make an appearance (albeit in a less powerful form) before the final encounter with Magneto himself.
+
+Players can chose from 6 X-Men characters, they are:
+Cyclops 
+Colossus 
+Wolverine 
+Storm 
+Nightcrawler 
+Dazzler</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/xmen-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./zaxxon.zip</path>
+		<name>Zaxxon</name>
+		<desc>Zaxxon is an isometric scrolling shoot-em-up in which the player pilots an armed spaceship and must penetrate heavily-fortified enemy bases, destroying enemy ships and installations before reaching the final confrontation with a giant armoured robot. </desc>
+		<image>~/.emulationstation/downloaded_images/arcade/zaxxon-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./bublbobl.zip</path>
+		<name>Bubble Bobble</name>
+		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
+
+Any trapped enemies who are not killed quickly enough will turn red and escape their bubble prison. These angry enemies are much faster than before, making them harder to kill. Enemies also become angry if players are taking too long to complete a level. Defeated enemies are turned into bonus fruit items that can be collected for points. </desc>
+		<image>~/.emulationstation/downloaded_images/arcade/bublbobl-image.png</image>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221112T105810</lastplayed>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/ddragon-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan Corp.</developer>
+		<publisher>Taito</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20221112T105928</lastplayed>
+	</game>
+</gameList>
